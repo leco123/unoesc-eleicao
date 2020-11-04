@@ -1,1 +1,1 @@
-DELETE FROM partido;
+select * from partido
